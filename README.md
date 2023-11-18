@@ -1,2 +1,2 @@
 # Feature-Selection
-Beginner Level Feature Selection techni
+Beginner Level Feature Selection techniques.
